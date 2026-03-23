@@ -15,7 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=kentonbell&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
+
 
 <img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/kentonjbell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+## About Me
+
+🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
+
+📖 Conducting research on **AI** and **Large Language Models**
+
+💻 Currently working on LLM applications for recommender systems and automated research.
+
+:seedling: Currently learning [LangChain](https://github.com/hwchase17/langchain) and [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
+
+
+## 👷 I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+
+## :book: My blog posts
+{{range rss "https://dagleaves.com/atom.xml" 5}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
