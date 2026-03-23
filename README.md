@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=kentonbell&theme=dark&include_all_commits=true&count_private=true&show_icons=true" /> -->
 
 
-<a href="https://www.linkedin.com/in/kentonjbell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
+<a href="https://www.linkedin.com/in/kentonjbell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/><img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
 
 
