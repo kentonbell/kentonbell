@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <!--<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=kentonbell&theme=dark&include_all_commits=true&count_private=true&show_icons=true" /> -->
 
 
- <p align="right">Send me a message! I would love to chat! &ensp; → <a href="https://www.linkedin.com/in/kentonjbell/"><img align="right" width="7%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &ensp; </p>
+ <p align="left"> &nbsp; &emsp;  <a href="https://www.linkedin.com/in/kentonjbell/"><img width="10%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &ensp; </p>
 
 
 
