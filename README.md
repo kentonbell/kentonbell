@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 
 :seedling: Currently learning [Tarui](https://github.com/hwchase17/langchain) and [Others](https://github.com/Lightning-AI/lightning).
 
+:seedling: Currently learning [Tarui](https://github.com/hwchase17/langchain) and [Others](https://github.com/Lightning-AI/lightning).
+
