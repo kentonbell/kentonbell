@@ -19,21 +19,19 @@ Here are some ideas to get you started:
 <!--<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=kentonbell&theme=dark&include_all_commits=true&count_private=true&show_icons=true" /> -->
 
 
-<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
+<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
 
 
 **About Me**
 
-🎓 B.S. in Computer Science Started @ [Eastern Washingoton University](https://www.ewu.edu/cstem/csee/computer-science-bcs/) & Finishing @[TWU](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
+🎓 B.S. in Computer Science Started @ [Eastern Washington University](https://www.ewu.edu/cstem/csee/computer-science-bcs/) & Finishing @[TWU](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
 
-🎓 B.A. in Intercultural Religous Studies @ [Trinity Western University](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
+🎓 B.A. in Intercultural Religous Studies @ [Trinity Western University](https://www.twu.ca/academics/faculty-humanities-social-sciences/intercultural-religious-studies) 2027. 
 
-📖 Conducting research on **A** and **Something**
+📖 Studying on **Cross-Platform Applications** and **Rust Backend Support**
 
-💻 Currently working on applications.
+:seedling: Currently learning [Tarui](https://tauri.app), implenting in [TheTicTacMiniGame](https://github.com/kentonbell/TheTicTacMiniGame). 
 
-:seedling: Currently learning [Tarui](https://github.com/hwchase17/langchain) and [Others](https://github.com/Lightning-AI/lightning).
-
-:seedling: Currently learning [Tarui](https://github.com/hwchase17/langchain) and [Others](https://github.com/Lightning-AI/lightning).
+🍃 Also developing [iOS](https://github.com/kentonbell/TheMiniTinyChallenge-iOS).
 
