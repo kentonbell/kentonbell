@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 **About Me**
 
-🎓 B.S. in Computer Science Started @ [Eastern Washingoton University]([https://www.ewu.edu/cstem/csee/computer-science-bcs/]) & Finishing @[TWU]([https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science]) 2027. 
+🎓 B.S. in Computer Science Started @ [Eastern Washingoton University](https://www.ewu.edu/cstem/csee/computer-science-bcs/) & Finishing @[TWU](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
 
-🎓 B.A. in Intercultural Religous Studies @ [Trinity Western University]([https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science]) 2027. 
+🎓 B.A. in Intercultural Religous Studies @ [Trinity Western University](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
 
 📖 Conducting research on **A** and **Something**
 
