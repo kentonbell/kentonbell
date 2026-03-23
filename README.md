@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 
 
-🎓 B.S. in Computer Science Started @ [Eastern Washington University](https://www.ewu.edu/cstem/csee/computer-science-bcs/) & Finishing @[TWU](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
+🎓 B.S. in Computer Science Started @ [Eastern Washington University](https://www.ewu.edu/cstem/csee/computer-science-bcs/) & Finishing @ [TWU](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
 
 🎓 B.A. in Intercultural Religous Studies @ [Trinity Western University](https://www.twu.ca/academics/faculty-humanities-social-sciences/intercultural-religious-studies) 2027. 
 
-📖 Studying on **Cross-Platform Applications** and **Rust Backend Support**
+📖 Studying on Cross-Platform Applications and Rust Backend Support
 
 :seedling: Currently learning [Tarui](https://tauri.app), implenting in [TheTicTacMiniGame](https://github.com/kentonbell/TheTicTacMiniGame). 
 
