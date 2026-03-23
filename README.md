@@ -1,4 +1,5 @@
-## Hi there 👋
+<a href="https://www.linkedin.com/in/kentonjbell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 <!--
 **kentonbell/kentonbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=kentonbell&theme=dark&include_all_commits=true&count_private=true&show_icons=true" />
+<!--<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=kentonbell&theme=dark&include_all_commits=true&count_private=true&show_icons=true" /> -->
 
 
 <img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
 
-<a href="https://www.linkedin.com/in/kentonjbell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## About Me
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 👷 I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.TheTicTacMiniGame}}]({{.[Repo.URL](https://github.com/kentonbell/TheTicTacMiniGame)}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 
