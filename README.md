@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 **About Me**
 
-🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
+🎓 Pursuing B.S. in Computer Science @ [Trinity Western University]([https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science)). 
 
-📖 Conducting research on **AI** and **Large Language Models**
+📖 Conducting research on **A** and **Something**
 
-💻 Currently working on LLM applications for recommender systems and automated research.
+💻 Currently working on applications.
 
-:seedling: Currently learning [LangChain](https://github.com/hwchase17/langchain) and [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
+:seedling: Currently learning [Tarui](https://github.com/hwchase17/langchain) and [Others](https://github.com/Lightning-AI/lightning).
 
