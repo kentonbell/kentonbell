@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 🎓 Pursuing B.S. in Computer Science @ [Trinity Western University]([https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science)). 
 
+🎓 Pursuing B.S. C in Computer Science @ [Trinity Western University]([https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science)). 
+
 📖 Conducting research on **A** and **Something**
 
 💻 Currently working on applications.
