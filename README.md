@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-## About Me
+**About Me**
 
 🎓 Pursuing B.S. in Computer Science @ [University of South Carolina](https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php). 
 
@@ -33,14 +33,3 @@ Here are some ideas to get you started:
 
 :seedling: Currently learning [LangChain](https://github.com/hwchase17/langchain) and [PyTorch Lightning](https://github.com/Lightning-AI/lightning).
 
-
-## 👷 I'm currently working on
-{{range recentContributions 5}}
-- [{{.TheTicTacMiniGame}}]({{.[Repo.URL](https://github.com/kentonbell/TheTicTacMiniGame)}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-
-## :book: My blog posts
-{{range rss "https://dagleaves.com/atom.xml" 5}}
-- [{{.Title}}]({{.URL}})
-{{- end}}
