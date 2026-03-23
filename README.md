@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/kentonjbell/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  **About Me**
 
 
-<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
+<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
 
 
@@ -37,4 +37,3 @@ Here are some ideas to get you started:
 :seedling: Currently learning [Tarui](https://tauri.app), implenting in [TheTicTacMiniGame](https://github.com/kentonbell/TheTicTacMiniGame). 
 
 🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this app](https://github.com/kentonbell/TheMiniTinyChallenge-Java).
-
