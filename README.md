@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 **About Me**
 
-🎓 Pursuing B.S. in Computer Science @ [Trinity Western University]([https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science)). 
+🎓 B.S. in Computer Science Started @ [Eastern Washingoton University]([https://www.ewu.edu/cstem/csee/computer-science-bcs/]) & Finishing @[TWU]([https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science]) 2027. 
 
-🎓 Pursuing B.S. C in Computer Science @ [Trinity Western University]([https://sc.edu/study/majors_and_degrees/computer_science_computer_engineering.php](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science)). 
+🎓 B.A. in Intercultural Religous Studies @ [Trinity Western University]([https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science]) 2027. 
 
 📖 Conducting research on **A** and **Something**
 
