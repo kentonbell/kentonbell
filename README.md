@@ -11,7 +11,7 @@
 
 
 
-<img align="right" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
 
 
 
