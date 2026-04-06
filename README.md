@@ -6,6 +6,7 @@
 
 
 
+
  <p align="left"> &nbsp; &emsp;  <a href="https://www.linkedin.com/in/kentonjbell/"><img width="10%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &ensp; </p>
 
 
