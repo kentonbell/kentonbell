@@ -21,5 +21,5 @@
 
 🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this java app](https://github.com/kentonbell/TheMiniTinyChallenge-Java). 
 
-
+Lastly, I'm working on my senior project. DM me for details or to collaborate!
 
