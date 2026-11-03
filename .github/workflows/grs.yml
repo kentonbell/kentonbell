@@ -37,7 +37,7 @@ jobs:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&hide=Jupyter%20Notebook&theme=dark"
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Commit cards
