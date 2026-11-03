@@ -21,8 +21,26 @@
 
 🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this java app](https://github.com/kentonbell/TheMiniTinyChallenge-Java).
 
----
+
+
+
+<br><br>
+
+
+
+
+##### Programming Languages
+![Swift, Java, TypeScript, JavaScript, Python, C++, C#, Rust](https://skillicons.dev/icons?i=swift,java,ts,js,py,cpp,cs,rust)
 
 
 ![GitHub Stats](/profile/stats.svg)
 ![Top Languages](/profile/top-langs.svg)
+
+
+
+##### Web, Native & Interactive Development
+![React, Next.js, Vite, Tailwind CSS, HTML, Apple platforms, Tauri, Unity, Gradle](https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,apple,tauri,unity,gradle)
+
+##### Backend, Cloud & Databases
+![Node.js, Express, AWS, Cloudflare, PostgreSQL, Docker](https://skillicons.dev/icons?i=nodejs,express,aws,cloudflare,postgres,docker)
+
