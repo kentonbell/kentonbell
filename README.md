@@ -19,12 +19,10 @@
 
 :seedling: Currently learning [Tarui](https://tauri.app), implenting in [TheTicTacMiniGame](https://github.com/kentonbell/TheTicTacMiniGame). 
 
-🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this java app](https://github.com/kentonbell/TheMiniTinyChallenge-Java). 
-
-Lastly, I'm working on my senior project. DM me for details or to collaborate!
+🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this java app](https://github.com/kentonbell/TheMiniTinyChallenge-Java).
 
 ---
 
-<!-- Animated stats cards and workflow adapted from Chander (https://github.com/chanderlud/chanderlud). -->
+
 ![GitHub Stats](/profile/stats.svg)
 ![Top Languages](/profile/top-langs.svg)
