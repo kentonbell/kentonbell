@@ -25,5 +25,6 @@ Lastly, I'm working on my senior project. DM me for details or to collaborate!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentonbell&show_icons=true&theme=dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&hide=Jupyter%20Notebook&theme=dark)
+<!-- Animated stats cards and workflow adapted from Chander (https://github.com/chanderlud/chanderlud). -->
+![GitHub Stats](/profile/stats.svg)
+![Top Languages](/profile/top-langs.svg)
