@@ -6,8 +6,7 @@
 
 
 
-<!-- <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&theme=dark&include_all_commits=true&count_private=true" />
- -->
+
 
 
 
@@ -20,7 +19,9 @@
 
 :seedling: Currently learning [Tarui](https://tauri.app), implenting in [TheTicTacMiniGame](https://github.com/kentonbell/TheTicTacMiniGame). 
 
-🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this java app](https://github.com/kentonbell/TheMiniTinyChallenge-Java). 
+🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this java app](https://github.com/kentonbell/TheMiniTinyChallenge-Java).
 
+---
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentonbell&show_icons=true&theme=dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kentonbell&layout=compact&hide=Jupyter%20Notebook&theme=dark)
