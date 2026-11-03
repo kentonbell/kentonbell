@@ -1,14 +1,14 @@
 
       <svg
-        width="467"
+        width="300"
         height="165"
-        viewBox="0 0 467 165"
+        viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Kenton Bell&#39;s GitHub Stats, Rank: B-</title>
+        <title id="titleId">Kenton Bell&#39;s GitHub Stats</title>
         <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 477, Total PRs: 18, Total Issues: 1, Contributed to (last year): 4</desc>
         <style>
           .header {
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
+          width="299"
           fill="#151515"
           stroke-opacity="1"
         />
@@ -129,18 +129,20 @@
           transform="translate(0, 25)"
         >
           
+    <!-- Rank badge hidden.
     <g data-testid="rank-circle"
           transform="translate(390.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
-          
+
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
           B-
         </text>
-      
+
         </g>
       </g>
+    -->
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
