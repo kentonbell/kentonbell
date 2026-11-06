@@ -10,9 +10,6 @@
 
 
 
-# Hey future friend 👋🍁
-
-I'm Kenton - I'm a fullstack developer, disciple, collegiate athlete, producer, and student. When I'm not playing in the leaves, I work on random projects in my free time. My [portfolio](https://linktr.ee/kentn) may be outdated, so just dm me! I'd love to catch up
 
 🎓 B.S. in Computer Science Started @ [Eastern Washington University](https://www.ewu.edu/cstem/csee/computer-science-bcs/) & Finishing @ [Trinity Western University](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
 
@@ -24,12 +21,9 @@ I'm Kenton - I'm a fullstack developer, disciple, collegiate athlete, producer, 
 
 🍃 Also writing a native Swift [rendition](https://github.com/kentonbell/TheMiniTinyChallenge-iOS) of [this java app](https://github.com/kentonbell/TheMiniTinyChallenge-Java).
 
+---
 
 
-
-
-<details>
-  <summary> Skills & Stats⚡</summary>
 
 
 ##### Programming Languages
@@ -44,6 +38,3 @@ I'm Kenton - I'm a fullstack developer, disciple, collegiate athlete, producer, 
 
 ##### Backend, Cloud & Databases
 ![Node.js, Express, AWS, Cloudflare, PostgreSQL, Docker](https://skillicons.dev/icons?i=nodejs,express,aws,cloudflare,postgres,docker)
-
-  
-  </details>
