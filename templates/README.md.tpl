@@ -12,7 +12,7 @@
 
 # Hey future friend 👋🍁
 
-I'm Kenton - I'm a fullstack developer, disciple, collegiate athlete, producer, and student. When I'm not playing in the leaves, I work on random projects in my free time. My [portfolio](https://linktr.ee/kentn) may be outdated, so just dm me! I'd love to catch up
+I'm Kenton - I'm a fullstack developer, disciple, collegiate athlete, producer, and student. When I'm not playing in the leaves, I work on random projects in my free time. My [portfolio](https://linktr.ee/kentn) is probably outdated, so dm me! I'd love to catch up
 
 🎓 B.S. in Computer Science Started @ [Eastern Washington University](https://www.ewu.edu/cstem/csee/computer-science-bcs/) & Finishing @ [Trinity Western University](https://www.twu.ca/academics/faculty-natural-applied-sciences/computing-science) 2027. 
 
